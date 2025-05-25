@@ -26,7 +26,7 @@ Cette configuration affiche des informations système avec un **style visuel uni
 1. **Cloner ce dépôt** :
 
 ```bash
-git clone https://github.com/<ton-utilisateur>/neofetch-afaafabe.git
+git clone https://github.com/AfaafaBe/neofetch_afaafabe.git
 cd neofetch-afaafabe
 ```
 
