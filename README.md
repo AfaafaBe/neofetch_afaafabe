@@ -57,8 +57,7 @@ Et personnaliser l'apparence selon ton style dans neofetch.conf.
 ---
 
 ## 🧑‍💻 Auteur
-FITAHIANTSOA Sahaza Gaëls
-Créateur de AfaafaBe, passionné de cybersécurité, personnalisation système et design terminal.
+FITAHIANTSOA Sahaza Gaëls, passionné de cybersécurité, personnalisation système et design terminal.
 
 ---
 
