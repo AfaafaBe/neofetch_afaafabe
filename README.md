@@ -1,6 +1,6 @@
 # 🎨 AfaafaBe Neofetch
 
-Bienvenue dans la configuration **Neofetch personnalisée** pour **AfaafaBe**, une distribution dérivée de Kali Linux.  
+Bienvenue dans la configuration **Neofetch personnalisée** pour **AfaafaBe**. 
 Cette configuration affiche des informations système avec un **style visuel unique**, des **icônes** et **couleurs aléatoires**.
 
 ---
