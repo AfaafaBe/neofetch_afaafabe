@@ -35,7 +35,7 @@ Copier la configuration Neofetch :
 ```bash
 mkdir -p ~/.config/neofetch
 cp neofetch.conf ~/.config/neofetch/config.conf
-cp afaafabe1.png ~/.config/neofetch/afaafabe1.png
+cp afaafabe.png ~/.config/neofetch/afaafabe.png
 
 ```
 ---
@@ -45,15 +45,13 @@ Neofetch
 
 Terminal compatible image (kitty, w3m-img, ou ueberzug)
 
-Image personnalisée (déjà incluse : afaafabe1.png)
+Image personnalisée (déjà incluse : afaafabe.png)
 
 ---
 
 ## 🖌️ Personnalisation
 Tu peux remplacer l’image dans la configuration :
-
-bash
-image_source="/chemin/vers/ton/image.png"
+image_source="afaafabe.png"
 Et personnaliser l'apparence selon ton style dans neofetch.conf.
 
 ---
