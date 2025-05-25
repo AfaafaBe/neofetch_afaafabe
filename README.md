@@ -35,6 +35,8 @@ Copier la configuration Neofetch :
 ```bash
 mkdir -p ~/.config/neofetch
 cp neofetch.conf ~/.config/neofetch/config.conf
+cp afaafabe1.png ~/.config/neofetch/afaafabe1.png
+
 ```
 ---
 
